@@ -31,13 +31,6 @@ Welcome to the **Hydration Tracker**! 💧 This is your ultimate companion for m
 
 ---
 
-## Cool Features We’ll Add Soon 👀  
-- **Water Splash Animation** when you hit your goal!  
-- **Confetti Party** when you finish your daily 8 glasses!  
-- **Reminders** to drink water every few hours (Your mom will finally stop yelling at you about drinking water)! 🍼
-
----
-
 ## Contribution 🤝  
 Feel free to **fork**, **clone**, or **contribute** if you want to add more cool features like a daily hydration challenge or memes for motivation. 😜
 
